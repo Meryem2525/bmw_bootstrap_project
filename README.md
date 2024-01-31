@@ -1,3 +1,5 @@
 # BMW with BOOTSTRAP
-Bootstrap yapısını kullanarak BMW web sayfasını tasarladık.
-# bmw_bootstrap_project
+- HTML Bootstrap yapısını kullanarak BMW web sayfasını tasarladık.
+- Aşağıda yaptığım projenin görüntüsünü inceleyebilirsiniz.
+## Video
+<img src="bmw_gif.gif"/>
